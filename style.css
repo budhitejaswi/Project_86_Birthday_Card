@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image:url(https://walli.quosmos.com/files/thumbs/d/6/e/d6e3d306f5cff253812a04cc5729a50ff9181304/Geometrix_Tablet_1__800_800.png);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: rgb(81, 119, 126);
+}
+h1{
+    color:rgb(98, 73, 105) !important;
+    font-family: fantasy !important;
+    border: solid;
+    margin-left:470px!important;
+    margin-right: 470px!important;
+    background-color: antiquewhite;
+    border-color: antiquewhite;
+    
+}
